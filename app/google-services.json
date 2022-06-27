@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901297301142",
+    "project_id": "chattestapp-90d2a",
+    "storage_bucket": "chattestapp-90d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901297301142:android:7f88d4e7b88f2d339d04b7",
+        "android_client_info": {
+          "package_name": "com.zahideaksak.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901297301142-890ml11uth3tb6b1h8eqc7h634r1v0st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IpUUxHargUXklXp3fkPq0KMQvdxkO8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901297301142-890ml11uth3tb6b1h8eqc7h634r1v0st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
